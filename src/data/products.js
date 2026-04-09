@@ -1,0 +1,51 @@
+export const products = [
+  {
+    id: 1,
+    name: "Nike Air Max",
+    price: 7999,
+    category: "Running",
+    image: "/shoe1.jpg",
+  },
+  {
+    id: 2,
+    name: "Nike ZoomX",
+    price: 9999,
+    category: "Running",
+    image: "/shoe2.jpg",
+  },
+  {
+    id: 3,
+    name: "Nike Street",
+    price: 6999,
+    category: "Casual",
+    image: "/shoe3.jpg",
+  },
+  {
+    id: 4,
+    name: "Nike Flex",
+    price: 5999,
+    category: "Casual",
+    image: "/shoe4.jpg",
+  },
+  {
+    id: 5,
+    name: "Nike ZoomX",
+    price: 9999,
+    category: "Running",
+    image: "/shoe2.jpg",
+  },
+  {
+    id: 6,
+    name: "Nike Street",
+    price: 6999,
+    category: "Casual",
+    image: "/shoe3.jpg",
+  },
+  {
+    id: 7,
+    name: "Nike Flex",
+    price: 5999,
+    category: "Casual",
+    image: "/shoe4.jpg",
+  },
+];
