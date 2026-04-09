@@ -41,7 +41,6 @@ Thumbs.db
 .eslintcache
 
 # Service Worker (optional - if generated)
-sw.js
 workbox-*.js
 
 # Misc
